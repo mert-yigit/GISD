@@ -4,4 +4,4 @@ This dataset addresses corner cases that can occur in the long wave infrared dom
 
 Some examples are show belown:
 
-![example.png](/combined_image2.png)
+![sample_image.png](/sample_image.png)
